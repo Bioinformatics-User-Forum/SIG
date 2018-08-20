@@ -1,4 +1,4 @@
-### Welcome to the FNLCR Bioinformatics Special Interest Group!
+Welcome to the FNLCR Bioinformatics Special Interest Group!
 
 ### Links
 * [Calendar](calendar/) of upcoming seminars and meetings
